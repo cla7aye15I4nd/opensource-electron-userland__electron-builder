@@ -1,3 +1,13 @@
+# [27.0.0-alpha.11](https://github.com/electron-userland/electron-builder/compare/electron-builder@27.0.0-alpha.10...electron-builder@27.0.0-alpha.11) (2026-10-08)
+
+
+### Bug Fixes
+
+* encode GitLab package path segments ([#10140](https://github.com/electron-userland/electron-builder/issues/10140)) ([4b6e63f](https://github.com/electron-userland/electron-builder/commit/4b6e63f3490a50806839fa44fb790612cf5da1a2))
+* **updater:** pick highest version for alpha/beta channel instead of first feed entry ([#10289](https://github.com/electron-userland/electron-builder/issues/10289)) ([a1ad1a5](https://github.com/electron-userland/electron-builder/commit/a1ad1a5c2f1147d7e9242c0f3067464cad76e026))
+
+
+
 # [27.0.0-alpha.10](https://github.com/electron-userland/electron-builder/compare/electron-builder@27.0.0-alpha.9...electron-builder@27.0.0-alpha.10) (2026-10-08)
 
 

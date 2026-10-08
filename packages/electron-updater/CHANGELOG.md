@@ -1,5 +1,11 @@
 ## 4.3.0
 
+## 7.0.0-alpha.10
+
+### Patch Changes
+
+- Fix(updater): make GitHubProvider pick the highest eligible release for alpha/beta channel clients instead of the first feed entry, so a stable hotfix published after a pre-release no longer hides that newer pre-release (or offers a downgrade) (#10287) _[`#10289`](https://github.com/electron-userland/electron-builder/pull/10289) [`a1ad1a5`](https://github.com/electron-userland/electron-builder/commit/a1ad1a5c2f1147d7e9242c0f3067464cad76e026) [@claude](https://github.com/apps/claude)_
+
 ## 7.0.0-alpha.9
 
 ### Major Changes

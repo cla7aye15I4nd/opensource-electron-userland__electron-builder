@@ -1,5 +1,23 @@
 # electron-builder
 
+## 27.0.0-alpha.11
+
+### Patch Changes
+
+<details><summary>Updated 3 dependencies</summary>
+
+<small>
+
+[`a49daae`](https://github.com/electron-userland/electron-builder/commit/a49daae0ad0a2ca8a53e07aa031c5d00fde8bbb5) [`4b6e63f`](https://github.com/electron-userland/electron-builder/commit/4b6e63f3490a50806839fa44fb790612cf5da1a2)
+
+</small>
+
+- `app-builder-lib@27.0.0-alpha.11`
+- `electron-publish@27.0.0-alpha.11`
+- `dmg-builder@27.0.0-alpha.11`
+
+</details>
+
 ## 27.0.0-alpha.10
 
 ### Patch Changes

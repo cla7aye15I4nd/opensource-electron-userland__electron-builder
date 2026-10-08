@@ -1,5 +1,25 @@
 # app-builder-lib
 
+## 27.0.0-alpha.11
+
+### Patch Changes
+
+- Chore(deps): update @electron/_\_\_ dependencies to `latest` _[`#10244`](https://github.com/electron-userland/electron-builder/pull/10244) [`a49daae`](https://github.com/electron-userland/electron-builder/commit/a49daae0ad0a2ca8a53e07aa031c5d00fde8bbb5) [@mmaietta](https://github.com/mmaietta)\_
+
+<details><summary>Updated 3 dependencies</summary>
+
+<small>
+
+[`4b6e63f`](https://github.com/electron-userland/electron-builder/commit/4b6e63f3490a50806839fa44fb790612cf5da1a2)
+
+</small>
+
+- `electron-publish@27.0.0-alpha.11`
+- `dmg-builder@27.0.0-alpha.11`
+- `electron-builder-squirrel-windows@27.0.0-alpha.11`
+
+</details>
+
 ## 27.0.0-alpha.10
 
 ### Major Changes
